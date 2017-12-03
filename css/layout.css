@@ -1,9 +1,9 @@
 /********** Fixes **********/
 
 * {
-  margin:0;
-  padding:1500;
-  border:10;
+  margin: 0;
+  padding:5;
+  border:0;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -25,7 +25,6 @@
 .column-2 {
   display: inline-block;
   width: 66%;
-  float: left;
 }
 
 .column-1 {
