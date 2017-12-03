@@ -26,6 +26,9 @@
   width: 66%;
   float: left;
 }
+
+.column-1 {
+  width: 33%;
+  float: right;
+}
 /* Posititoning Classes */
-
-
