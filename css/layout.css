@@ -24,6 +24,7 @@
 
 .column-2 {
   width: 66%;
+  float: left;
 }
 
 .column-1 {
