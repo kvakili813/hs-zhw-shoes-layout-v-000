@@ -23,6 +23,7 @@
 }
 
 .column-2 {
+  display: inline-block;
   width: 66%;
   float: left;
 }
